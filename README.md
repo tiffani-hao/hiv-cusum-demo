@@ -11,7 +11,7 @@ The goal of this prototype is to show how a health department could quickly uplo
 
 ---
 
-## What the demo does
+## What the app demo does 
 
 - Upload a CSV file with monthly case counts
 - Run a mock CUSUM calculation (it's fake)
@@ -109,6 +109,16 @@ http://localhost:8501
 ```
 
 Upload a dataset and the dashboard will generate alerts and plots.
+
+---
+
+### 5. Quit the application
+
+```
+ctrl + c
+```
+
+or just close everything
 
 ---
 
