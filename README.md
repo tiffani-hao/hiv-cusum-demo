@@ -135,9 +135,16 @@ README.md
 
 ## Notes
 
-The current version uses a simple mock CUSUM implementation for demonstration purposes.
+This is only a simple demo for demonstration purposes.
 
-The actual surveillance algorithm can be plugged in later without changing the user interface.
+The setup steps may look a bit complicated right now because this is just a prototype. 
+The final application would likely be packaged so users can run it more easily.
+
+The current visualizations and outputs are not final. 
+They are only examples to show how the workflow might look. 
+More features, outputs, and visualizations can be added if needed.
+
+The diagrams and plots shown in the app are also just a rough draft to illustrate the idea.
 
 ---
 
